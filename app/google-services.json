@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551473263739",
+    "project_id": "modulo-login-94f03",
+    "storage_bucket": "modulo-login-94f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551473263739:android:afd4a1751f9204b0031ede",
+        "android_client_info": {
+          "package_name": "com.example.moduloproyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUC3VFFKk9Z48qK3Cs7rqGnWpzRc-0RWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
